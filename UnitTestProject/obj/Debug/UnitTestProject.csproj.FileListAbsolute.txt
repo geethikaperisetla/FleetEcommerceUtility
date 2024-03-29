@@ -1,0 +1,14 @@
+C:\Users\yyy2t73\Downloads\FleetEcommerceUtility\FleetEcommerceUtility\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\yyy2t73\Downloads\FleetEcommerceUtility\FleetEcommerceUtility\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\yyy2t73\Downloads\FleetEcommerceUtility\FleetEcommerceUtility\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\yyy2t73\Downloads\FleetEcommerceUtility\FleetEcommerceUtility\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\yyy2t73\Downloads\FleetEcommerceUtility\FleetEcommerceUtility\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\yyy2t73\Downloads\FleetEcommerceUtility\FleetEcommerceUtility\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\yyy2t73\Downloads\FleetEcommerceUtility\FleetEcommerceUtility\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\yyy2t73\Downloads\FleetEcommerceUtility\FleetEcommerceUtility\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\yyy2t73\Downloads\FleetEcommerceUtility\FleetEcommerceUtility\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\yyy2t73\Downloads\FleetEcommerceUtility\FleetEcommerceUtility\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+C:\Users\yyy2t73\Downloads\FleetEcommerceUtility\FleetEcommerceUtility\UnitTestProject\obj\Debug\UnitTestProject.csproj.CopyComplete
+C:\Users\yyy2t73\Downloads\FleetEcommerceUtility\FleetEcommerceUtility\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\yyy2t73\Downloads\FleetEcommerceUtility\FleetEcommerceUtility\UnitTestProject\obj\Debug\UnitTestProject.pdb
+C:\Users\yyy2t73\Downloads\FleetEcommerceUtility\FleetEcommerceUtility\UnitTestProject\obj\Debug\UnitTestProject.csprojAssemblyReference.cache

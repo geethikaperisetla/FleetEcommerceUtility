@@ -1,0 +1,6 @@
+C:\Users\yyy2t73\Downloads\FleetEcommerceUtility\FleetEcommerceUtility\obj\Debug\FleetEcommerceUtility.csproj.CoreCompileInputs.cache
+C:\Users\yyy2t73\Downloads\FleetEcommerceUtility\FleetEcommerceUtility\bin\Debug\ConsoleApp1.exe.config
+C:\Users\yyy2t73\Downloads\FleetEcommerceUtility\FleetEcommerceUtility\bin\Debug\ConsoleApp1.exe
+C:\Users\yyy2t73\Downloads\FleetEcommerceUtility\FleetEcommerceUtility\bin\Debug\ConsoleApp1.pdb
+C:\Users\yyy2t73\Downloads\FleetEcommerceUtility\FleetEcommerceUtility\obj\Debug\ConsoleApp1.exe
+C:\Users\yyy2t73\Downloads\FleetEcommerceUtility\FleetEcommerceUtility\obj\Debug\ConsoleApp1.pdb
